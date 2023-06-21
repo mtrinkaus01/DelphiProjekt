@@ -1,0 +1,13 @@
+﻿[TBUTTON_HAUPTMENUE_FRAGEN]
+Coordinates=405,146,231,58
+
+[TLABEL_FRAGENFORM_FRAGE]
+Coordinates=10,146,210,58
+
+[]
+Coordinates=10,78,238,58
+Visible=True
+
+[TLABEL_FRAGENFORM_THEMA]
+Coordinates=230,146,165,58
+
